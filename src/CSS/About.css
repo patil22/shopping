@@ -1,0 +1,51 @@
+#aboutimg-1{
+    margin-top: 6%;
+    margin-left: 6%;
+}
+#leave-mark{
+    font-weight: bolder;
+    font-size: 49px;
+}
+.sidecontent-1{
+
+    margin-left: 48%;
+    margin-top: -27%;
+}
+.sidecontent-para{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.sidecontent-2{
+
+
+
+}
+#aboutimg-2{
+
+    position: absolute;
+    top: 101%;
+    right: 12%;
+}
+.sidecontent2-para{
+
+    margin-top: 7%;
+    margin-left: 6%;
+    font-weight: bold;
+    font-size: 22px;
+
+
+}
+
+#aboutimg-3{
+    position: absolute;
+    top: 168%;
+    left: 6%;
+}
+.sidecontent3-para{
+    position: absolute;
+    right: 10%;
+    top: 175%;
+    font-weight: bold;
+    font-size: 22px;
+}
